@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\apert\Desktop\Pixel8\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="0c0cf6f54fb0a60d374680c1e026c19df17ff031">
+        <dex dex="C:\Users\apert\Desktop\Pixel8\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_e365f2a414d904ab33d1955b7137d4cfad9f44d1\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\apert\Desktop\Pixel8\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\apert\Desktop\Pixel8\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_81987778520eb85ec58d82e9779ba107aa502fd2\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\apert\Desktop\Pixel8\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="264ff148b931f93c6e05fce90a62d1cb984d2a5c">
+        <dex dex="C:\Users\apert\Desktop\Pixel8\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_c88ddd882dc01332f80d72e57126141b7c49c704\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\apert\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\apert\Desktop\Pixel8\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_ed282d99b32af256a915506926b26989e5e38aba\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\apert\Desktop\Pixel8\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\apert\Desktop\Pixel8\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_cc8495774f13923812560f5eef6166fd4f010d60\classes.dex" />
+    </item>
+
+</items>
